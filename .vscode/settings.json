@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Monokai Mega",
+
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+}
